@@ -17,7 +17,7 @@ Replace the dependency to `org.yaml:snakeyaml` with the dependency to `snakeyaml
       ...
       <dependency>
         <groupId>org.yaml</groupId>
-        <artifactId>yaml</artifactId>
+        <artifactId>snakeyaml</artifactId>
         <version>1.25</version>
       </dependency>
       ...
