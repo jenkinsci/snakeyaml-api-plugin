@@ -1,0 +1,17 @@
+target/
+work/
+.idea/*
+!.idea/codeStyles/
+*.iml
+
+# Ignore generated files.
+.project
+.settings
+*/.classpath
+*/.factorypath
+*/.project
+*/.settings
+
+# Ignore DS_Store (Mac)
+.DS_Store
+
