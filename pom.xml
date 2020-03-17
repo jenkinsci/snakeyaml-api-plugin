@@ -16,6 +16,7 @@
   </licenses>
 
   <artifactId>snakeyaml</artifactId>
+  <groupId>io.jenkins.plugins</groupId>
   <description>This plugin packages stock Snakeyaml library</description>
   <version>${revision}${changelist}</version>
   <packaging>hpi</packaging>

@@ -28,7 +28,7 @@ Replace the dependency to `org.yaml:snakeyaml` with the dependency to `snakeyaml
     <dependencies>
       ...
       <dependency>
-        <groupId>org.jenkins-ci.plugins</groupId>
+        <groupId>io.jenkins.plugins</groupId>
         <artifactId>snakeyaml</artifactId>
         <version>1.25</version>
       </dependency>
