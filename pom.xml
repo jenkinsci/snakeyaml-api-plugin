@@ -21,7 +21,7 @@
   <version>${revision}${changelist}</version>
   <packaging>hpi</packaging>
   <name>Snakeyaml Plugin</name>
-  <url>https://github.com/escoem/snakeyaml-plugin</url>
+  <url>https://github.com/jenkinsci/snakeyaml-plugin</url>
 
   <properties>
     <checkstyle.skip>true</checkstyle.skip>
