@@ -29,8 +29,8 @@ Replace the dependency to `org.yaml:snakeyaml` with the dependency to `io.jenkin
       ...
       <dependency>
         <groupId>io.jenkins.plugins</groupId>
-        <artifactId>snakeyaml</artifactId>
-        <version>1.25</version>
+        <artifactId>snakeyaml-api</artifactId>
+        <version>1.25.1</version>
       </dependency>
       ...
     </dependencies>
@@ -38,7 +38,7 @@ Replace the dependency to `org.yaml:snakeyaml` with the dependency to `io.jenkin
 
 ## Release Notes
 
-See the [Changelog](https://github.com/jenkinsci/snakeyaml-plugin/releases).
+See the [Changelog](https://github.com/jenkinsci/snakeyaml-api-plugin/releases).
 
 ## License
 

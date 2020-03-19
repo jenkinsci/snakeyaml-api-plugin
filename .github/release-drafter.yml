@@ -1,3 +1,3 @@
 _extends: .github
 name-template: v$NEXT_MINOR_VERSION 🐍
-tag-template: snakeyaml-$NEXT_MINOR_VERSION
+tag-template: snakeyaml-api-$NEXT_MINOR_VERSION
