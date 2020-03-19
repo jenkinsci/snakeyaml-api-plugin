@@ -9,7 +9,7 @@ It allows managing library updates independently from plugins.
 
 ### Plugins directly depending on snakeyaml
 
-Replace the dependency to `org.yaml:snakeyaml` with the dependency to `io.jenkins.plugins:snakeyaml`.
+Replace the dependency to `org.yaml:snakeyaml` with the dependency to `io.jenkins.plugins:snakeyaml-api`.
 
 * Before:
     ```
