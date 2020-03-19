@@ -1,4 +1,4 @@
-Snakeyaml plugin for Jenkins
+Snakeyaml API plugin for Jenkins
 ===
 
 This plugin packages stock Snakeyaml library. 

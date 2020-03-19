@@ -20,7 +20,7 @@
   <description>This plugin packages stock Snakeyaml library</description>
   <version>${revision}${changelist}</version>
   <packaging>hpi</packaging>
-  <name>Snakeyaml Plugin</name>
+  <name>Snakeyaml API Plugin</name>
   <url>https://github.com/jenkinsci/snakeyaml-api-plugin</url>
 
   <properties>
