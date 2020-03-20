@@ -30,7 +30,7 @@ Replace the dependency to `org.yaml:snakeyaml` with the dependency to `io.jenkin
       <dependency>
         <groupId>io.jenkins.plugins</groupId>
         <artifactId>snakeyaml-api</artifactId>
-        <version>1.26.1</version>
+        <version>1.26.2</version>
       </dependency>
       ...
     </dependencies>
