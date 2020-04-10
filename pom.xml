@@ -29,6 +29,7 @@
     <maven.javadoc.skip>true</maven.javadoc.skip>
     <snakeyaml.version>1.26</snakeyaml.version>
     <java.level>8</java.level>
+    <jenkins.version>2.164.3</jenkins.version>
   </properties>
 
   <dependencies>
