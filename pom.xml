@@ -18,7 +18,7 @@
   <artifactId>snakeyaml-api</artifactId>
   <groupId>io.jenkins.plugins</groupId>
   <description>This plugin packages stock Snakeyaml library</description>
-  <version>1.27.1-SNAPSHOT</version>
+  <version>1.29.1-SNAPSHOT</version>
   <packaging>hpi</packaging>
   <name>Snakeyaml API Plugin</name>
   <url>https://github.com/jenkinsci/snakeyaml-api-plugin</url>
