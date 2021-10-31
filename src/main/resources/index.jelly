@@ -1,4 +1,4 @@
 <?jelly escape-by-default='true'?>
 <div>
-  This plugin provides <a href="http://www.snakeyaml.org/">Snakeyaml</a> for other plugins.
+  This plugin provides <a href="https://bitbucket.org/snakeyaml/snakeyaml/">SnakeYAML</a> for other plugins.
 </div>
