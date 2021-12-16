@@ -27,7 +27,7 @@
     <checkstyle.skip>true</checkstyle.skip>
     <spotbugs.skip>true</spotbugs.skip>
     <maven.javadoc.skip>true</maven.javadoc.skip>
-    <snakeyaml.version>1.29</snakeyaml.version>
+    <snakeyaml.version>1.30</snakeyaml.version>
     <java.level>8</java.level>
     <jenkins.version>2.204.6</jenkins.version>
   </properties>
