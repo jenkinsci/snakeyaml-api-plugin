@@ -31,7 +31,7 @@
     <spotbugs.skip>true</spotbugs.skip>
     <maven.javadoc.skip>true</maven.javadoc.skip>
     <jenkins.version>2.289.3</jenkins.version>
-    <githubRepo>jenkinsci/${project.artifactId}-plugin</githubRepo>
+    <gitHubRepo>jenkinsci/${project.artifactId}-plugin</gitHubRepo>
   </properties>
 
   <dependencies>
