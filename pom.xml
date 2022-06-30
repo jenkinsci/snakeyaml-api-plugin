@@ -18,24 +18,26 @@
   <artifactId>snakeyaml-api</artifactId>
   <groupId>io.jenkins.plugins</groupId>
   <description>This plugin packages stock SnakeYAML library</description>
-  <version>1.30.2-SNAPSHOT</version>
+  <version>${revision}-${changelist}</version>
   <packaging>hpi</packaging>
   <name>SnakeYAML API Plugin</name>
   <url>https://github.com/jenkinsci/snakeyaml-api-plugin</url>
 
   <properties>
+    <revision>1.30</revision>
+    <changelist>999999-SNAPSHOT</changelist>
     <checkstyle.skip>true</checkstyle.skip>
     <spotbugs.skip>true</spotbugs.skip>
     <maven.javadoc.skip>true</maven.javadoc.skip>
-    <snakeyaml.version>1.30</snakeyaml.version>
     <jenkins.version>2.289.3</jenkins.version>
+    <githubRepo>jenkinsci/${project.artifactId}-plugin</githubRepo>
   </properties>
 
   <dependencies>
     <dependency>
       <groupId>org.yaml</groupId>
       <artifactId>snakeyaml</artifactId>
-      <version>${snakeyaml.version}</version>
+      <version>${revision}</version>
       <scope>compile</scope>
     </dependency>
   </dependencies>
@@ -56,8 +58,9 @@
   </pluginRepositories>
 
   <scm>
-    <connection>scm:git:git://github.com/jenkinsci/${project.artifactId}-plugin.git</connection>
-    <developerConnection>scm:git:git@github.com:jenkinsci/${project.artifactId}-plugin.git</developerConnection>
+    <connection>scm:git:git://github.com/${gitHubRepo}.git</connection>
+    <developerConnection>scm:git:git@github.com:${gitHubRepo}.git</developerConnection>
+    <url>https://github.com/${gitHubRepo}</url>
     <tag>${scmTag}</tag>
   </scm>
 </project>
