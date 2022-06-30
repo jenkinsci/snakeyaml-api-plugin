@@ -6,7 +6,7 @@
     <version>4.41</version>
     <relativePath />
   </parent>
-  
+
   <licenses>
     <license>
       <name>The MIT License (MIT)</name>
@@ -28,7 +28,6 @@
     <spotbugs.skip>true</spotbugs.skip>
     <maven.javadoc.skip>true</maven.javadoc.skip>
     <snakeyaml.version>1.30</snakeyaml.version>
-    <java.level>8</java.level>
     <jenkins.version>2.289.3</jenkins.version>
   </properties>
 
@@ -55,7 +54,7 @@
       <url>https://repo.jenkins-ci.org/public/</url>
     </pluginRepository>
   </pluginRepositories>
-  
+
   <scm>
     <connection>scm:git:git://github.com/jenkinsci/${project.artifactId}-plugin.git</connection>
     <developerConnection>scm:git:git@github.com:jenkinsci/${project.artifactId}-plugin.git</developerConnection>
