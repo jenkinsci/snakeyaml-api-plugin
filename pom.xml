@@ -25,7 +25,7 @@
   <url>https://github.com/jenkinsci/snakeyaml-api-plugin</url>
 
   <properties>
-    <revision>1.30</revision>
+    <revision>1.31</revision>
     <changelist>999999-SNAPSHOT</changelist>
     <checkstyle.skip>true</checkstyle.skip>
     <spotbugs.skip>true</spotbugs.skip>
