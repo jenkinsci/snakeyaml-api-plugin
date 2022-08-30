@@ -18,8 +18,7 @@
   <artifactId>snakeyaml-api</artifactId>
   <groupId>io.jenkins.plugins</groupId>
   <description>This plugin packages stock SnakeYAML library</description>
-  <!-- Remove .2 when new snakeyaml version bump -->
-  <version>${revision}.2-${changelist}</version>
+  <version>${revision}-${changelist}</version>
   <packaging>hpi</packaging>
   <name>SnakeYAML API Plugin</name>
   <url>https://github.com/jenkinsci/snakeyaml-api-plugin</url>
