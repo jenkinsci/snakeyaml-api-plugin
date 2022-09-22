@@ -29,7 +29,7 @@
     <checkstyle.skip>true</checkstyle.skip>
     <spotbugs.skip>true</spotbugs.skip>
     <maven.javadoc.skip>true</maven.javadoc.skip>
-    <jenkins.version>2.289.3</jenkins.version>
+    <jenkins.version>2.332.4</jenkins.version>
     <gitHubRepo>jenkinsci/${project.artifactId}-plugin</gitHubRepo>
   </properties>
 
