@@ -32,7 +32,7 @@
   </scm>
 
   <properties>
-    <revision>2.5</revision>
+    <revision>2.7</revision>
     <changelist>999999-SNAPSHOT</changelist>
     <checkstyle.skip>true</checkstyle.skip>
     <spotbugs.skip>true</spotbugs.skip>
